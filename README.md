@@ -1,2 +1,2 @@
-# Solutions-of-image-processing-labs
+# Solutions of image processing labs
 
